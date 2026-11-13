@@ -7,6 +7,7 @@
 
 ## Goal
 
+
 In Task 1 you built a *static* profile card. Now you will make it **interactive**: press buttons, follow / unfollow, write a message, expand the bio and select skills.
 
 | Initial state | Final result |
